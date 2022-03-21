@@ -1,5 +1,3 @@
-### Hi!
-Check out my website: [colinwilson.dev](https://colinwilson.dev)
 ![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=github_dark)
 
 
