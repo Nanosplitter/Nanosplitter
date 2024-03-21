@@ -1,4 +1,4 @@
-![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=github_dark)
+![Colin's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=github_dark](https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=transparent&hide_rank=true))
 
 
 <!--
