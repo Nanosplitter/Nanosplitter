@@ -1,5 +1,4 @@
-![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=transparent&hide_rank=true)
-
+![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanosplitter&show_icons=true&theme=transparent&rank_icon=github)
 
 <!--
 **Nanosplitter/Nanosplitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
